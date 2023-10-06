@@ -1,0 +1,6 @@
+{
+  "EmailDomains": {
+    "defaultTemplateWorkflow": [ "x.com", "c.net", "n.com" ],
+    "cTemplateWorkflow": [ "c.com" ]
+  }
+}
